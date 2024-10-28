@@ -12,7 +12,7 @@ public class Main {
 //        array = 50, -20, 0, 30, 40, 60, 10
 
 //        int [] number={50, -20, 0, 30, 40, 60, 10};
-//        boolean areEqual = (number[0] == number[number.length - 1]);
+//        boolean areEqual = (number[0] == number[4]);
 //        System.out.println(areEqual);
 //        }}
 
