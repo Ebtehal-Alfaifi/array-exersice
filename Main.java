@@ -53,11 +53,14 @@ public class Main {
 //[20, 30, 40]
 
 
-//int[] num={20, 30, 40};
-//int firstelement=0;
-//int lastelement = num[num.length - 1];
-//int largerelement = Math.max(firstelement,lastelement);
-//System.out.println("the largest element is " + largerelement);}}
+ // int bigest=0;
+ //    int[]a={20,30,40};
+ //            for(int num:a){
+ //                if (num>bigest){
+ //                    bigest=num;}}
+ //        System.out.println(bigest);
+ //                }
+ //            }
 // *****************************************************************************
 
 
