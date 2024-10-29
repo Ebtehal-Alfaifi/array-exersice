@@ -102,15 +102,16 @@ public class Main {
 //    6. Write a program that test the equality of two arrays.
 //        [2,3,6,6,4] [2,3,6,6,4]
 //
-//    boolean areEqual = true;
-// int []firstarray={2,3,6,6,4};
-// int[]secondarray={2,3,6,6,4};
-// if (firstarray.length != secondarray.length) {
-//  areEqual = false;}
-//  for (int i = 0; i < firstarray.length; i++) {
-//  if (firstarray[i] != secondarray[i]) {
-//  areEqual = false;
-//  break;
-//  }}
-//  System.out.println(areEqual);}}
+// int[]a={2,3,6,6,4};
+//     int[]b={2,3,6,6,4};
+//     boolean areeq=true;
+//     if (a.length!=b.length){
+//         areeq=false;}
+//     int i=0;
+//     if (a[i]!=b[i]){
+//         areeq=false;
+//         }
+//         System.out.println(areeq);
+//     }
+//     }
 
