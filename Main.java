@@ -53,15 +53,15 @@ public class Main {
 //[20, 30, 40]
 
 
-    // int bigest=0;
-    // int[]a={20,30,40};
-    //         for(int num:a){
-    //             bigest=num;
-    //             if (num>bigest){
-    //                 }}
-    //     System.out.println(bigest);
-    //             }
-    //         }
+ // int bigest=0;
+ //    int[]a={20,30,10};
+ //            for(int num:a){
+ //                if (num>bigest){
+ //                    bigest=num;
+ //                    }}
+ //        System.out.println(bigest);
+ //                }
+ //            }
 // *****************************************************************************
 
 
